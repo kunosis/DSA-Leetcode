@@ -21,4 +21,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/kunosis/DSA-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/kunosis/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->

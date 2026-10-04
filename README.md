@@ -20,6 +20,7 @@
 | [0066-plus-one](https://github.com/kunosis/DSA-Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/kunosis/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0724-find-pivot-index](https://github.com/kunosis/DSA-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kunosis/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/kunosis/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 <!---LeetCode Topics End-->

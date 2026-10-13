@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/kunosis/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0724-find-pivot-index](https://github.com/kunosis/DSA-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunosis/DSA-Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/kunosis/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +74,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunosis/DSA-Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->

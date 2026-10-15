@@ -10,6 +10,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kunosis/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0682-baseball-game](https://github.com/kunosis/DSA-Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -20,6 +21,7 @@
 | [0066-plus-one](https://github.com/kunosis/DSA-Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/kunosis/DSA-Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0217-contains-duplicate](https://github.com/kunosis/DSA-Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0682-baseball-game](https://github.com/kunosis/DSA-Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0724-find-pivot-index](https://github.com/kunosis/DSA-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -44,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/kunosis/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0682-baseball-game](https://github.com/kunosis/DSA-Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |

@@ -36,6 +36,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kunosis/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/kunosis/DSA-Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/kunosis/DSA-Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/kunosis/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
@@ -94,4 +95,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kunosis/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kunosis/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

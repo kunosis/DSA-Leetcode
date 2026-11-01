@@ -29,11 +29,13 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunosis/DSA-Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/kunosis/DSA-Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunosis/DSA-Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

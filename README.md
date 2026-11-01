@@ -28,6 +28,7 @@
 | [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunosis/DSA-Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1929-concatenation-of-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0067-add-binary](https://github.com/kunosis/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0682-baseball-game](https://github.com/kunosis/DSA-Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [0867-transpose-matrix](https://github.com/kunosis/DSA-Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1929-concatenation-of-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

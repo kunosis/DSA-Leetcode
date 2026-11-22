@@ -7,6 +7,7 @@
 | [0020-valid-parentheses](https://github.com/kunosis/DSA-Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0067-add-binary](https://github.com/kunosis/DSA-Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0242-valid-anagram](https://github.com/kunosis/DSA-Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/kunosis/DSA-Leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

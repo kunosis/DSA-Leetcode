@@ -29,6 +29,7 @@
 | [1051-height-checker](https://github.com/kunosis/DSA-Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/kunosis/DSA-Leetcode/tree/main/1588-sum-of-all-odd-length-subarrays/) | Easy |
+| [1652-defuse-the-bomb](https://github.com/kunosis/DSA-Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1929-concatenation-of-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/kunosis/DSA-Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## Prefix Sum
@@ -110,4 +111,8 @@
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/kunosis/DSA-Leetcode/tree/main/0002-add-two-numbers/) | Medium |
 | [0206-reverse-linked-list](https://github.com/kunosis/DSA-Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1652-defuse-the-bomb](https://github.com/kunosis/DSA-Leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 <!---LeetCode Topics End-->
